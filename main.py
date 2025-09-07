@@ -35,6 +35,6 @@ for url in orders:
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(html)
 
-        print(f"✅ Pedido {orderid} salvo em {filepath}")
+        print(f"✅ Order {orderid} saved in {filepath}")
 
 driver.quit()
