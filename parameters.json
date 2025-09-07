@@ -1,0 +1,23 @@
+{
+    "bin-location"  : "..\\chrome-win64\\chrome-win64\\chrome.exe",
+    "user-data-dir" : "%USERPROFILE%\\AppData\\Local\\Google\\Chrome for Testing\\User Data",
+    "profile-dir"   : "Default",
+    "ordersurl": [
+    "https://www.ifood.com.br/pedido/328a19c4-75d9-4467-9fcd-20229c8cf7c7",
+    "https://www.ifood.com.br/pedido/3802a8ec-c42d-49dd-ab0d-79c287b67b8a",
+    "https://www.ifood.com.br/pedido/25245ac5-b6fa-4de9-97c9-1ab1eb843b8c",
+    "https://www.ifood.com.br/pedido/f6b4ebd9-9536-4b89-954c-e7f916af2de0",
+    "https://www.ifood.com.br/pedido/25245ac5-b6fa-4de9-97c9-1ab1eb843b8c",
+    "https://www.ifood.com.br/pedido/5e5b480e-5c43-455f-a789-111ce9558691",
+    "https://www.ifood.com.br/pedido/a2f60431-3594-42d8-bfdc-d5137b4a232d",
+    "https://www.ifood.com.br/pedido/5e5b480e-5c43-455f-a789-111ce9558691",
+    "https://www.ifood.com.br/pedido/d34973ab-6926-444d-8ca6-27e07c5a24f9",
+    "https://www.ifood.com.br/pedido/9496a648-ac28-4054-846c-055a795443f0",
+    "https://www.ifood.com.br/pedido/2b44b9ef-ebdc-4f93-9d11-483e6abaad9e",
+    "https://www.ifood.com.br/pedido/e2aad240-12e9-47d3-b72f-6d7924238767",
+    "https://www.ifood.com.br/pedido/2b44b9ef-ebdc-4f93-9d11-483e6abaad9e",
+    "https://www.ifood.com.br/pedido/fd666c1c-57bb-4732-9f46-dbe0bc9f8da4",
+    "https://www.ifood.com.br/pedido/5a39090e-fee8-4db2-a612-50a11c59c902",
+    "https://www.ifood.com.br/pedido/a37f7141-b748-42a9-af7a-06eb427b4160",
+    "https://www.ifood.com.br/pedido/c67403de-27f4-47ce-b591-a87224d9bdaf"]
+  }
