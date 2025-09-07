@@ -15,8 +15,12 @@ orders = params["ordersurl"]
 
 options = webdriver.ChromeOptions()
 options.binary_location = params["bin-location"]
-options.add_argument(f"user-data-dir={params["user-data-dir"]}")
-options.add_argument(f"profile-directory={params["profile-dir"]}")
+
+userdatadir = os.path.expandvars(params["user-data-dir"])
+options.add_argument(f"user-data-dir={userdatadir}")
+
+profiledir = params["profile-dir"]
+options.add_argument(f"profile-directory={profiledir}")
 
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
