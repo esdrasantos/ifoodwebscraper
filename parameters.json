@@ -1,5 +1,6 @@
 {
-    "bin-location"  : "..\\chrome-win64\\chrome-win64\\chrome.exe",
+    "bigquery-credentials" : "ifood-scraping-46a7dc7849b5.json",
+    "bin-location"  : "chrome-win64\\chrome-win64\\chrome.exe",
     "user-data-dir" : "%USERPROFILE%\\AppData\\Local\\Google\\Chrome for Testing\\User Data",
     "profile-dir"   : "Default",
     "ordersurl": [
